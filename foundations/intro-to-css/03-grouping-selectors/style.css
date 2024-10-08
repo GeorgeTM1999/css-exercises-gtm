@@ -1,0 +1,14 @@
+.btn {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.black {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(360, 100%, 100%);
+}
+
